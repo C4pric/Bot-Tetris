@@ -8,8 +8,8 @@ Il se décompose en 5 fichiers ayant chacun leurs utilité au sein du programme 
 
 # Computer Vision
 
-How it works? 
-When bot started he tries to find game aplication and wait until game is started. When game is started bot detectes the board, the tetrominoes in the game using Opencv. Grabs the images in realtime and transfroms board to bollean matrix (0 - empty cell , 1 - occupied cell) and identify current tetromino...
+Comment ça fonctionne?
+Lorsque le bot démarre, il essaie de trouver une application de jeu et attend que le jeu démarre. Lorsque le jeu démarre, le bot détecte le plateau, les tétrominos du jeu en utilisant Opencv. Récupère les images en temps réel et transfère la carte en matrice bolléenne (0 - cellule vide, 1 - cellule occupée) et identifie le tétromino actuel...
 
 - Run `bot.exe`
 - Start new Game
